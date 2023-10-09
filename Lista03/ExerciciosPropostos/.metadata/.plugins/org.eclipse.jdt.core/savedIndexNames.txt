@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\GonLu\git\DisciplinaPOO2023.2\Lista03\ExerciciosPropostos\.metadata\.plugins\org.eclipse.jdt.core
+167019726.index
+1865797976.index
+2410607158.index
+3180892340.index
+2772552642.index
+3925892357.index

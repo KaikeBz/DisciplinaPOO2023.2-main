@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\Ângela Leite\Desktop\DisciplinaPOO2023.2-main\Lista01\ExerciciosPropostos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

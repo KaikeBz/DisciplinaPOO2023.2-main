@@ -1,0 +1,7 @@
+| Questões | Enunciado                                                                                           |
+|----------|----------------------------------------------------------------------------------------------------|
+|  07 | Elabore uma sub-rotina que leia um número não determinado de valores positivos e retorne a média aritmética desses valores. Terminar a entrada de dados com o valor zero.|
+|  15 | Elabore uma sub-rotina que receba um vetor X de 15 números inteiros como parâmetro e retorne a quantidade de valores pares em X. |
+|  16 | Faça uma sub-rotina que receba um vetor X de 20 de números reais como parâmetro e retorne a soma dos elementos de X.|
+|  20 | A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletando dados sobre o salário e o número de filhos. Faça uma sub-rotina que leia esses dados para um número não determinado de pessoas e retorne a média de salário da população, a média do número de filhos, o maior salário e o percentual de pessoas com salário inferior a R$ 380,00.|
+|  25 | Crie um programa que receba o número dos 10 alunos de uma sala, armazenando-os em um vetor, junto com as notas obtidas ao longo do semestre (foram realizadas quatro avaliações). Elabore sub-rotinas para: ■ determinar e mostrar a média aritmética de todos os alunos; ■ indicar os números dos alunos que deverão fazer recuperação, ou seja, aqueles com média inferior a 6. |
